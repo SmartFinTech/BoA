@@ -2,3 +2,5 @@
  Lucy
  Vivian
  Victor
+ George
+ Patience
